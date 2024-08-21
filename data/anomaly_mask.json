@@ -1,0 +1,62 @@
+{
+    "hazelnut": {
+        "use_mask"     : true,
+        "bg_reverse"   : true
+    },
+    "leather": {
+        "use_mask"     : false,
+        "bg_reverse"   : null
+    },
+    "metal_nut": {
+        "use_mask"     : true,
+        "bg_reverse"   : true
+    },
+    "tile": {
+        "use_mask"     : false,
+        "bg_reverse"   : null
+    },
+    "wood": {
+        "use_mask"     : false,
+        "bg_reverse"   : null
+    },
+    "grid": {
+        "use_mask"     : false,
+        "bg_reverse"   : null
+    },
+    "cable": {
+        "use_mask"     : false,
+        "bg_reverse"   : null
+    },
+    "capsule": {
+        "use_mask"     : true,
+        "bg_reverse"   : false
+    },
+    "transistor": {
+        "use_mask"     : true,
+        "bg_reverse"   : false
+    },
+    "carpet": {
+        "use_mask"     : false,
+        "bg_reverse"   : null
+    },
+    "bottle": {
+        "use_mask"     : true,
+        "bg_reverse"   : false
+    },
+    "screw": {
+        "use_mask"     : true,
+        "bg_reverse"   : false
+    },
+    "zipper": {
+        "use_mask"     : false,
+        "bg_reverse"   : null
+    },
+    "pill": {
+        "use_mask"     : true,
+        "bg_reverse"   : true
+    },
+    "toothbrush": {
+        "use_mask"     : true,
+        "bg_reverse"   : true
+    }
+}
